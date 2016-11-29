@@ -1,5 +1,5 @@
-. ~/.bash_aliases
-. ~/.bash_colors
+. .bash_aliases
+. .bash_colors
 . ~/.git-prompt.sh
 . ~/z.sh
 
