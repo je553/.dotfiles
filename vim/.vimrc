@@ -2,6 +2,8 @@ source ~/.vim/plugins.vim
 
 syntax enable
 set background=dark
+" solarized options
+solarized_termcolors=256
 colorscheme solarized
 
 
